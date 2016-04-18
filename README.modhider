@@ -1,0 +1,5 @@
+Readme for the mod hider module
+
+this module works by writing the desired name of the module to a proc system file that was created 
+this will trigger the function to search through the list holding all of the modules and edit out the specified module from the list
+
